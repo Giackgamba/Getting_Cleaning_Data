@@ -1,10 +1,3 @@
----
-output: 
-  html_document: 
-    highlight: tango
-    smart: no
-    theme: cerulean
----
 # Getting and Cleaning Data
 ## Course Project
 
